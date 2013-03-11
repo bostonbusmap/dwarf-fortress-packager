@@ -1,0 +1,14 @@
+command?line.txt /usr/share/dwarf-fortress
+data /usr/share/dwarf-fortress
+df /usr/share/dwarf-fortress
+file?changes.txt /usr/share/dwarf-fortress
+gamelog.txt /usr/share/dwarf-fortress
+g_src /usr/share/dwarf-fortress
+libs /usr/share/dwarf-fortress
+raw /usr/share/dwarf-fortress
+README.linux /usr/share/dwarf-fortress
+readme.txt /usr/share/dwarf-fortress
+release?notes.txt /usr/share/dwarf-fortress
+sdl /usr/share/dwarf-fortress
+
+dwarf-fortress /usr/bin

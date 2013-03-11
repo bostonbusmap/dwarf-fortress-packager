@@ -1,0 +1,8 @@
+Format: http://dep.debian.net/deps/dep5
+Upstream-Name: dwarf-fortress
+
+Files: *
+Copyright: 2002-2012 Tarn Adams
+License: Proprietary
+ .
+
