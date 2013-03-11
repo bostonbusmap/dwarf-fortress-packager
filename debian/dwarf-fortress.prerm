@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -f /usr/share/dwarf-fortress/libs/libopenal.so
+rm -f /usr/share/dwarf-fortress/libs/libsndfile.so
