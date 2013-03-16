@@ -9,6 +9,7 @@ mkdir staging.deb
 
 cp df_linux staging.deb -rf
 cp dwarf-fortress staging.deb/df_linux
+cp *.desktop staging.deb/df_linux
 
 cd staging.deb
 tar zcvf ${PACKAGE}_${VERSION}.orig.tar.gz df_linux

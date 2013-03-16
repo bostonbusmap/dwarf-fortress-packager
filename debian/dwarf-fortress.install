@@ -10,5 +10,6 @@ README.linux /usr/share/dwarf-fortress
 readme.txt /usr/share/dwarf-fortress
 release?notes.txt /usr/share/dwarf-fortress
 sdl /usr/share/dwarf-fortress
+*.desktop /usr/share/applications/*.desktop
 
 dwarf-fortress /usr/bin
