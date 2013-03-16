@@ -19,3 +19,5 @@ mv ${PACKAGE}.tar.gz buildroot/SOURCES
 cp ../dwarf-fortress.spec .
 
 rpmbuild --define "_topdir $(pwd)/buildroot" -ba dwarf-fortress.spec
+
+cp $(find buildroot/RPMS -type f) .
